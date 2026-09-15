@@ -1,2 +1,2 @@
-# Ci-ncia-da-Computa-o
-Alguns exercícios, estudos, projetos e trabalhos envolvendo a faculdade
+# Faculdade
+Aqui vou reunir alguns exercícios da faculdade, trabalhos, projetos e estudos de algumas linguagens por fora
